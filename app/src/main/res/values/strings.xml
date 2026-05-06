@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Tunisia Heritage Quest</string>
+    <string name="time_left">Time left: %1$ds</string>
+    <string name="score">Score: %1$d / %2$d</string>
+    <string name="splash_title">Tunisia Heritage Quest</string>
+    <string name="main_menu_subtitle">Welcome to Tunisia Heritage Quest</string>
+    <string name="start_quiz_button">START QUIZ</string>
+    <string name="sites_count_label">Sites</string>
+    <string name="mastery_label">Mastery</string>
+    <string name="streak_label">Streak</string>
+    <string name="percentage_value">%1$d%%</string>
+    <string name="select_category_title">Choose a Category</string>
+    <string name="select_category_subtitle">Pick a heritage group to begin your journey.</string>
+    <string name="question_count_value">%1$d questions</string>
+    <string name="settings_title">Difficulty &amp; Settings</string>
+    <string name="selected_category_label">Selected category: %1$s</string>
+    <string name="seconds_per_question">%1$d seconds per question</string>
+    <string name="hints_allowed">Hints allowed</string>
+    <string name="hints_disabled">No hints</string>
+    <string name="game_options_title">Game Options</string>
+    <string name="timer_label">Timer</string>
+    <string name="sound_label">Sound</string>
+    <string name="haptic_label">Haptic Feedback</string>
+    <string name="play_button">PLAY</string>
+    <string name="question_progress">Question %1$d of %2$d</string>
+    <string name="submit_button">SUBMIT</string>
+    <string name="correct_answer_label">Correct answer: %1$s</string>
+    <string name="fact_label">Fact: %1$s</string>
+    <string name="next_button">NEXT</string>
+    <string name="results_title">Results</string>
+    <string name="final_score_value">Final score: %1$d</string>
+    <string name="final_percentage_value">Accuracy: %1$d%%</string>
+    <string name="retry_quiz_button">Retry Quiz</string>
+    <string name="back_to_menu_button">Back to Main Menu</string>
+    <string name="no_questions_long">No questions available. Use Main Menu to start.</string>
+    <string name="roman_category_icon">Roman heritage icon</string>
+</resources>

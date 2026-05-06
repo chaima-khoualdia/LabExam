@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Deep Mediterranean Blue and Warm Earth Tone palette -->
+    <color name="md_theme_primary">#0B486B</color>
+    <color name="md_theme_onPrimary">#FFFFFFFF</color>
+    <color name="md_theme_secondary">#C98B53</color>
+    <color name="md_theme_onSecondary">#FFFFFFFF</color>
+    <color name="md_theme_background">#F7F3EE</color>
+    <color name="md_theme_onBackground">#FF111111</color>
+</resources>
